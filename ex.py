@@ -5,6 +5,8 @@ inimigos = ['Zumbi', 'Bandido', 'Cachorro mutante']
 
 inimigo = random.choice(inimigos)
 
+print('ola')
+
 
 
 
